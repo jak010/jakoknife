@@ -1,0 +1,2 @@
+from .django_endpoint_collect import DjangoEndPointCollect
+from .github_endpoint_collect import GithubEndpointCollect
